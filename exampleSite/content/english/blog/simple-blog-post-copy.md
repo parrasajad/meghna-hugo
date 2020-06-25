@@ -2,7 +2,6 @@
 author = "John Doe"
 date = 2018-09-12T06:52:36Z
 description = "This is meta description"
-draft = true
 image = "images/blog/blog-post-3.jpg"
 image_webp = "images/blog/blog-post-3.webp"
 title = "Simple Blog Post-(copy)"
